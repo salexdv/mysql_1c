@@ -2,7 +2,7 @@
 «Класс» для упрощения работы с MySQL из 1С в Windows.
 Позволяет просто выполнять любые виды запросов и получать данные в виде таблицы значений.
 
-Для работы необходимо скачать и установить [https://dev.mysql.com/downloads/connector/odbc/](MySQL ODBC Connector)
+Для работы необходимо скачать и установить [MySQL ODBC Connector](https://dev.mysql.com/downloads/connector/odbc/)
 
 ## Пример получения данных
 ```bsl
